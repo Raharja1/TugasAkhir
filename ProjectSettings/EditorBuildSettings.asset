@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a9ccf12f783b2423ca1632cd2a1c0321
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/PengenalanHuruf.unity
+    guid: f4e0e3342facd4b7db04df075cb870e0
+  - enabled: 1
+    path: Assets/Scenes/KosaKata.unity
+    guid: b62b04211cbbd49b6b0b4992ca4010ec
+  - enabled: 1
+    path: Assets/Scenes/PengenalanKalimat.unity
+    guid: 0ba3e70d9311549c185bcaa4d5c13b6c
+  - enabled: 1
+    path: Assets/Scenes/ParagrafSederhana.unity
+    guid: d640ffe28b2e84cb5934374c589dbc9d
+  - enabled: 1
+    path: Assets/Scenes/InformasiAplikasi.unity
+    guid: 696546321df1b4c8098c217c3831f90b
+  - enabled: 1
+    path: Assets/Scenes/PetunjukPenggunaan.unity
+    guid: a4ca7c85bb33148f08d277a3ec91ffba
+  m_configObjects: {}

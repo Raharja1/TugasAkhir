@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="60KUCING0" size="1.000000 0.666432" />
+    <ImageTarget name="59jERUK0" size="1.000000 0.666432" />
+    <ImageTarget name="58PETANI0" size="1.000000 0.666432" />
+    <ImageTarget name="57ORANGBERMAINOMBAK0" size="1.000000 0.666432" />
+    <ImageTarget name="56PANDAMEMANJATPOHON0" size="1.000000 0.666432" />
+    <ImageTarget name="55BUNDAMINUMOBAT0" size="1.000000 0.666432" />
+    <ImageTarget name="54DOMBAMAKANILALANG0" size="1.000000 0.666432" />
+    <ImageTarget name="53BUDIMAKANBAKPAO0" size="1.000000 0.666432" />
+    <ImageTarget name="52MEWEK0" size="1.000000 0.666432" />
+    <ImageTarget name="51MAWAR0" size="1.000000 0.666432" />
+    <ImageTarget name="50NYAMUK0" size="1.000000 0.666432" />
+    <ImageTarget name="49MINUM0" size="1.000000 0.666432" />
+    <ImageTarget name="48MENANGIS0" size="1.000000 0.666432" />
+    <ImageTarget name="47TALI0" size="1.000000 0.666432" />
+    <ImageTarget name="46KAIL0" size="1.000000 0.666432" />
+    <ImageTarget name="45LILIN0" size="1.000000 0.666432" />
+    <ImageTarget name="44HUJAN0" size="1.000000 0.666432" />
+    <ImageTarget name="43UANG0" size="1.000000 0.666432" />
+    <ImageTarget name="42UNTA0" size="1.000000 0.666432" />
+    <ImageTarget name="41OLAHRAGA0" size="1.000000 0.666432" />
+    <ImageTarget name="40OMBAK0" size="1.000000 0.666432" />
+    <ImageTarget name="39OBAT0" size="1.000000 0.666432" />
+    <ImageTarget name="38PANAH0" size="1.000000 0.666432" />
+    <ImageTarget name="37HANTU0" size="1.000000 0.666432" />
+    <ImageTarget name="36HUTAN0" size="1.000000 0.666432" />
+    <ImageTarget name="35PANDA0" size="1.000000 0.666432" />
+    <ImageTarget name="34PEDANG0" size="1.000000 0.666432" />
+    <ImageTarget name="33DAPUR0" size="1.000000 0.666432" />
+    <ImageTarget name="32PABRIK0" size="1.000000 0.666432" />
+    <ImageTarget name="31BAKPAO0" size="1.000000 0.666432" />
+    <ImageTarget name="30BAPAK0" size="1.000000 0.666432" />
+    <ImageTarget name="29BUNDA0" size="1.000000 0.666432" />
+    <ImageTarget name="28DOMBA0" size="1.000000 0.666432" />
+    <ImageTarget name="27BADAK0" size="1.000000 0.666432" />
+    <ImageTarget name="Z-0" size="1.000000 0.666432" />
+    <ImageTarget name="Y-0" size="1.000000 0.666432" />
+    <ImageTarget name="X-0" size="1.000000 0.666432" />
+    <ImageTarget name="w-0" size="1.000000 0.666432" />
+    <ImageTarget name="V-0" size="1.000000 0.666432" />
+    <ImageTarget name="U-0" size="1.000000 0.666432" />
+    <ImageTarget name="T-0" size="1.000000 0.666432" />
+    <ImageTarget name="S-0" size="1.000000 0.666432" />
+    <ImageTarget name="R-0" size="1.000000 0.666432" />
+    <ImageTarget name="Q-0" size="1.000000 0.666432" />
+    <ImageTarget name="P-0" size="1.000000 0.666432" />
+    <ImageTarget name="O2-01" size="1.000000 0.666432" />
+    <ImageTarget name="J2-01" size="1.000000 0.666432" />
+    <ImageTarget name="N-0" size="1.000000 0.666432" />
+    <ImageTarget name="M-0" size="1.000000 0.666432" />
+    <ImageTarget name="L-0" size="1.000000 0.666432" />
+    <ImageTarget name="K-0" size="1.000000 0.666432" />
+    <ImageTarget name="I-011" size="1.000000 0.666432" />
+    <ImageTarget name="H-0" size="1.000000 0.666432" />
+    <ImageTarget name="G-0" size="1.000000 0.666432" />
+    <ImageTarget name="F-0" size="1.000000 0.666432" />
+    <ImageTarget name="E-0" size="1.000000 0.666432" />
+    <ImageTarget name="D-0" size="1.000000 0.666432" />
+    <ImageTarget name="C-0" size="1.000000 0.666432" />
+    <ImageTarget name="B-0" size="1.000000 0.666432" />
+    <ImageTarget name="A-0" size="1.000000 0.666432" />
+  </Tracking>
+</QCARConfig>
