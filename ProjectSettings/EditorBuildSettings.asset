@@ -8,18 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: a9ccf12f783b2423ca1632cd2a1c0321
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/PengenalanHuruf.unity
-    guid: f4e0e3342facd4b7db04df075cb870e0
+    path: Assets/Scenes/MenuAbjad.unity
+    guid: d45f1e139c8ac471fb9db01928857928
   - enabled: 1
-    path: Assets/Scenes/KosaKata.unity
-    guid: b62b04211cbbd49b6b0b4992ca4010ec
+    path: Assets/Scenes/MenuPenekanan.unity
+    guid: a51ccaabf565c417698ed30323885759
   - enabled: 1
-    path: Assets/Scenes/PengenalanKalimat.unity
-    guid: 0ba3e70d9311549c185bcaa4d5c13b6c
+    path: Assets/Scenes/MenuKalimat.unity
+    guid: 5edca75e26f434241928ea7c4a4d25b7
   - enabled: 1
     path: Assets/Scenes/ParagrafSederhana.unity
     guid: d640ffe28b2e84cb5934374c589dbc9d
@@ -29,4 +26,172 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PetunjukPenggunaan.unity
     guid: a4ca7c85bb33148f08d277a3ec91ffba
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/f.unity
+    guid: 77db2553cd3ee446590bced088fd5f43
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/a.unity
+    guid: d50cbfa2ad8064264840a5d1bec62ed2
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/b.unity
+    guid: 71c27adfd208f4a89ac7588643ac3b01
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/c.unity
+    guid: ac38801009df343969ee068f1298d36f
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/d.unity
+    guid: 7dbe4ae55db0b4fc29b6534b2114efd0
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/e.unity
+    guid: 164791a8eded14cd590fbd4b266e4b9d
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/g.unity
+    guid: 7da5515de35874885a2138a681d71a53
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/h.unity
+    guid: 5f197363bc314486b9a829234dcb2f09
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/i.unity
+    guid: 47ca3aa9279a843aab64fccc3dda31e8
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/j.unity
+    guid: 102902eab7b7c4ca08fc748c87a2ee2b
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/k.unity
+    guid: 4b79d5e589b0e414aba514f1ff972996
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/l.unity
+    guid: a84af089c09b44a5c84bd2f355dcf1bb
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/m.unity
+    guid: 236aae4975c614c1aaa6bf646a4b5695
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/n.unity
+    guid: 429f4bb3e606d4a4fa808488f89b0774
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/o.unity
+    guid: 57aa9cf099e5747d0b53ea396137a727
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/p.unity
+    guid: e72ff9cbb733f4c9b973bea087cac9ed
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/q.unity
+    guid: a900e0cac9abc4fe8a98353b6d0eb940
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/r.unity
+    guid: 47fdc075a97d54a1e91e9a7ebe64e9c9
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/s.unity
+    guid: 2bc060ac51652467cae33c57b8dca340
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/t.unity
+    guid: 6f5da2bffd76848e7bd462550221962c
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/u.unity
+    guid: d7fc5976ce90a4864b730c9e533fb55b
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/v.unity
+    guid: 3a69d05c2da82434bbcfff2e4cae87f8
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/w.unity
+    guid: 68b585863311e405fb95e4d6391593f9
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/x.unity
+    guid: bf6ffe8fa23fe462ebdfd70f10e00297
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/y.unity
+    guid: df256ece893524cbd9e0ce508ebc39eb
+  - enabled: 1
+    path: Assets/Scenes/Pengenalan Huruf/z.unity
+    guid: 90b97e178e2b1410fb46a057f7fe9a90
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/badak.unity
+    guid: ff6dc65bfbbcf4f7491b981bd7a5f067
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/bakpao.unity
+    guid: 2a39f2e274a594118946dd1e64991f94
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/bapak.unity
+    guid: e435d07a6e332446fb017b0571ec8d36
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/bunda.unity
+    guid: 0422b496c0b284abd8e9ea5be18dbd20
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/dapur.unity
+    guid: 9e3c59b92a5b54e359b10be12337f129
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/domba.unity
+    guid: 95ba38c6362904d6690736b72e1235ef
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/hantu.unity
+    guid: 3b040d8f6fc194217a0a30348fe9f308
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/hutan.unity
+    guid: 4ad8db8a9f8ab467b9d1d649837089e0
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/obat.unity
+    guid: 45ba657a5151d4bf4aca013ebea19930
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/ombak.unity
+    guid: e81acc598548b4b87b78b1552a26e603
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/pabrik.unity
+    guid: 8abb1b3f027a54568a0a849180af2929
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/panah.unity
+    guid: e4a90a06dcb02470d82b8801575acbce
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/panda.unity
+    guid: 08c5729f04c6542799833850a8d15d28
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/pedang.unity
+    guid: e40046f8644b64d619eda476727a222c
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/baru/kail.unity
+    guid: 478ce8a629eb24ae4abdad9568bb68f9
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/baru/lilin.unity
+    guid: 2728007fea8ad4149b0fc13e10d61436
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/baru/mawar.unity
+    guid: ac61b8a501f3d4528b440e5266e8b520
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/baru/menangis.unity
+    guid: c198d6514197c45bb8a952eed18b7314
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/baru/mewek.unity
+    guid: bed84218113c84aa383bd0eba9be921d
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/baru/minum.unity
+    guid: 6574d39dcef6c4de2941ec936803f941
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/baru/nyamuk.unity
+    guid: 4d4bfb70e37a34c8f8a3101a6f1632bc
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/baru/olahraga.unity
+    guid: 75ec12b425a6a46df9ed1c742aa56fb9
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/baru/tali.unity
+    guid: 4d3c80c8e4b094e1081c708d9a53f7a7
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/baru/uang.unity
+    guid: 24d737e85e2874c0ca935761e352f987
+  - enabled: 1
+    path: Assets/Scenes/PenekananHuruf/baru/unta.unity
+    guid: 6ff18ac48affa4956bd285f6b5784ab9
+  - enabled: 1
+    path: Assets/Scenes/Kalimat/budimakan.unity
+    guid: 2041bb252da704108be3c59bf6fe003c
+  - enabled: 1
+    path: Assets/Scenes/Kalimat/bundaminum.unity
+    guid: 565c5d7584aad481bb352d203ecbb134
+  - enabled: 1
+    path: Assets/Scenes/Kalimat/dombamakan.unity
+    guid: 36c5451476a0546c9b663bb334acc18a
+  - enabled: 1
+    path: Assets/Scenes/Kalimat/orangbermain.unity
+    guid: 9fa422e78721f43098eb3a9dded6a054
+  - enabled: 1
+    path: Assets/Scenes/Kalimat/pandamemanjat.unity
+    guid: f96ce1d49c6474aa79445392c131e137
   m_configObjects: {}
